@@ -17,3 +17,9 @@ Kemudian tambahkan kode untukmembuat *Ordered List* seperti berikut. kemudian si
 ## Membuat Unordered list
 Kemudian Tambahkan kode untuk membuat *Unordered list*, setelahnya deklarasikan ordered list pada section **unordered-list**, seperti berikut.
 ![img](img/img3.png)
+
+## Membuat Description List
+Kemudian tabahkan kode untuk membuat description list setelah deklarasi unordered-list.
+![img](img/img4.png)
+Selanjutnya lakukan eksperimen lain terkait list dan penggunaan atribut type pada list.
+
