@@ -35,3 +35,6 @@ Untuk mengatur margin dan padding pada cell data, tambahkan atribut `cellpadding
 Untuk menggabungkan sel data, gunakan atribut `rowspan` dan `colspan`. Atribut `rowspan` untuk menggabungkan baris (vertikal) dan `colspan` untuk menggabungkan kolom (horizontal).
 ![img](img/img7.png)
 
+## Membuat Form
+Buat file baru dengan nama **lab3_form.html**. Kemudian tambahkan kode untukmembuat tabel sederhana sepertiberikut.
+![img](img/img8.png)
