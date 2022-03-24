@@ -48,4 +48,13 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 ## 1. Buatlah form yang menampilkan *dropdown* menu dan *listbox* dengan *multiple section*
 
 # Jawaban
-## 1. 
+## 1. Disini saya akan membuat form pendaftaran mahasiswa baru
+
+- Form Hasil
+![img](img/img10.png)
+
+- HTML
+![img](img/img11.png)
+
+-CSS
+![img](img/img12.png)

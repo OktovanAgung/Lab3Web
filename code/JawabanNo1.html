@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/formstyle.css">
+    <title>Jawaban No 1</title>
+</head>
+<body>
+    <div class="header">
+        <div>
+            <img class="logo" src="logoupb.png">
+        </div>
+        <div>
+            <h1>Form Pendaftaran Mahasiswa Baru</h1>
+            <h1>Universitas Pelita Bangsa</h1>
+        </div>
+    </div>
+    <form action="proses.php" method="post">
+		<fieldset>
+        <legend>Data Mahasiswa Baru</legend>
+        <p>
+			<label for="nama">Nama Lengkap</label>
+			<input type="text" id="nama" name="nama"> 
+		</p>
+        <p>
+			<label for="tempat">Tempat Lahir</label>
+			<input type="text" id="tempat" name="tempat"> 
+		</p>
+        <p>
+			<label for="lahir">Tanggal Lahir</label>
+			<input type="text" id="lahir" name="lahir"> 
+		</p>
+		<p>
+			<label for="nik">NIK</label>
+			<input type="text" id="nik" name="nik"> 
+		</p>
+        <p>
+			<label for="nisn">NISN </label>
+			<input type="text" id="nisn" name="nisn"> 
+		</p>
+		<p>
+			<label for="kelamin">Jenis Kelamin</label><br>
+			<input id="jk_l" type="radio" name="kelamin" value="L" />
+			<label for="jk_l">Laki-laki</label>
+			<input id="jk_p" type="radio" name="kelamin" value="P" />
+			<label for="jk_p">Perempuan</label> 
+		</p>
+		<p>
+			<label for="jurusan">Jurusan</label>
+			<select name="jurusan" >
+			  <option value="" selected="selected">--Pilih Jurusan--</option>
+			  <option value="ti">Teknik Informatika</option>
+			  <option value="ts">Teknik Sipil</option>
+			  <option value="mj">Manajemen</option>
+			</select>
+		</p>
+		<p>
+			<label for="alamat">Alamat</label>
+			<textarea id="alamat" name="alamat" cols="20" rows="3"></textarea>
+		</p> 
+
+		<p>
+			<input type="submit" value="Daftar">
+		</p>
+		</fieldset>
+	</form>
+</body>
+</html>
