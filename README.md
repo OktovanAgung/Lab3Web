@@ -56,5 +56,5 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 - HTML
 ![img](img/img11.png)
 
--CSS
+- CSS
 ![img](img/img12.png)
