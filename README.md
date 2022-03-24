@@ -27,6 +27,11 @@ Selanjutnya lakukan eksperimen lain terkait list dan penggunaan atribut type pad
 Buat file baru dengan nama **lab3_tabel.html**. Kemudian tambahkan kode untuk membuat tabel sederhana seperti berikut.
 ![img](img/img5.png)
 
-##Mengatur Margin dan Padding
+## Mengatur Margin dan Padding
 Untuk mengatur margin dan padding pada cell data, tambahkan atribut `cellpadding` dan `cellspacing`
 ![img](img/img6.png)
+
+## Menggabungkan Sel Data
+Untuk menggabungkan sel data, gunakan atribut `rowspan` dan `colspan`. Atribut `rowspan` untuk menggabungkan baris (vertikal) dan `colspan` untuk menggabungkan kolom (horizontal).
+![img](img/img7.png)
+
