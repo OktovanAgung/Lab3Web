@@ -38,3 +38,7 @@ Untuk menggabungkan sel data, gunakan atribut `rowspan` dan `colspan`. Atribut `
 ## Membuat Form
 Buat file baru dengan nama **lab3_form.html**. Kemudian tambahkan kode untukmembuat tabel sederhana sepertiberikut.
 ![img](img/img8.png)
+
+## Menambahkan Style Pada Form
+Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
+![img](img/img9.png)
