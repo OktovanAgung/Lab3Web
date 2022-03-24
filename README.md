@@ -15,7 +15,7 @@ Kemudian tambahkan kode untukmembuat *Ordered List* seperti berikut. kemudian si
 ![img](img/img2.png)
 
 ## Membuat Unordered list
-Kemudian Tambahkan kode untuk membuat *Unordered list*, setelahnya deklarasikan ordered list pada section **unordered-list**, seperti berikut.
+Kemudian Tambahkan kode untuk membuat *Unordered list*, setelahnya deklarasikan ordered list pada section `unordered-list`, seperti berikut.
 ![img](img/img3.png)
 
 ## Membuat Description List
@@ -23,3 +23,10 @@ Kemudian tabahkan kode untuk membuat description list setelah deklarasi unordere
 ![img](img/img4.png)
 Selanjutnya lakukan eksperimen lain terkait list dan penggunaan atribut type pada list.
 
+## Membuat Tabel
+Buat file baru dengan nama **lab3_tabel.html**. Kemudian tambahkan kode untuk membuat tabel sederhana seperti berikut.
+![img](img/img5.png)
+
+##Mengatur Margin dan Padding
+Untuk mengatur margin dan padding pada cell data, tambahkan atribut `cellpadding` dan `cellspacing`
+![img](img/img6.png)
