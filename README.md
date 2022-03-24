@@ -42,3 +42,7 @@ Buat file baru dengan nama **lab3_form.html**. Kemudian tambahkan kode untukmemb
 ## Menambahkan Style Pada Form
 Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 ![img](img/img9.png)
+
+# Pertanyaan & Tugas
+
+## 1 Buatlah form yang menampilkan *dropdown* menu dan *listbox* dengan *multiple section*
